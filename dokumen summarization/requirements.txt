@@ -1,0 +1,8 @@
+streamlit
+pandas
+nltk
+networkx
+scikit-learn
+selenium
+matplotlib
+webdriver-manager
